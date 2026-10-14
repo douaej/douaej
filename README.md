@@ -16,7 +16,7 @@ I'm interested in applying data analysis, machine learning, and AI techniques to
 
 ## 👩‍💻 About Me
 
-My academic background and projects have allowed me to explore data preprocessing, predictive modeling, deep learning, and AI applications. I'm particularly interested in working with data, developing predictive models, and learning how to turn technical ideas into useful applications.---
+My academic background and projects have allowed me to explore data preprocessing, predictive modeling, deep learning, and AI applications. I'm particularly interested in working with data, developing predictive models, and learning how to turn technical ideas into useful applications.
 
 ---
 ## 🚀 Featured Projects
